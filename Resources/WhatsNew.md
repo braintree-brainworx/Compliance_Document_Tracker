@@ -1,6 +1,6 @@
 # Release notes
 
-### Release 26.0.20260115.2 (Braintree version)
+### Release 26.0.20260115.2
 
 <details>
 <summary>Bug fix: attachments on Service documents result in error. (click for details)</summary>
