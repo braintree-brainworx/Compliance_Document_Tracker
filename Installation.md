@@ -59,11 +59,6 @@ The types of document which your organisation needs to store, and the rules of h
 
 Capture the information as follows:
 
-| Field Name                | Statutory Document Type                       | 
-| --                        |--                                             |
-|Statutory Documents Code | A unique code to identify the type of document  |  
-|Issuing authority | Select the Issuing authority responsible for this document type |
-
 | Field Name | Details|
 |---|---|
 |Statutory Documents Code | A unique code to identify the type of document  |
