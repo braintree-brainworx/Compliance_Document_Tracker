@@ -59,8 +59,13 @@ The types of document which your organisation needs to store, and the rules of h
 
 Capture the information as follows:
 
+| Field Name                | Statutory Document Type                       | 
+| --                        |--                                             |
+|Statutory Documents Code | A unique code to identify the type of document  |  
+|Issuing authority | Select the Issuing authority responsible for this document type |
+
 | Field Name | Details|
-| ---      |---|
+|---|---|
 |Statutory Documents Code | A unique code to identify the type of document  |
 |Issuing authority | Select the Issuing authority responsible for this document type|
 |Validity          | If the document has a limited validity, enter a date formula to calculate the expiry date from date of issue|
@@ -69,8 +74,9 @@ Capture the information as follows:
 |Duplicates allowed| If multiple editions of the same document type can be issued to a particular entity, tick on. If ticked off, the system will prevent you from capturing more than one edition of a document.|
 |Extension Period   |                                                       |
 |Maximum Extensions allowed |   |
-|Associated Entities:|Select the entities to which the document type can be attached: Customer / Vendor / Fixed Asset / Item / Resource / Service Item / Employee |
-    |
+|Associated Entities:|Select the entities to which the document type can be attached: Customer / Vendor / Fixed Asset / Item / Resource / Service Item / Employee ||
+
+
 ### Entity Defaults
 This function allows you to define the suggested list of documents that need to be collected for a particular entity. For example, for a new customer, you may want to collect their company registration, VAT registration, BBBEE certificate.
 
