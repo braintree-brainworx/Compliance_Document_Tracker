@@ -63,7 +63,7 @@ The types of document which your organisation needs to store, and the rules of h
 Capture the information as follows:
 
 | Field Name    | Details                                                   |
-| --            |--                                                         |
+| ---           |---                                                        |
 |Statutory Documents Code | A unique code to identify the type of document  |
 |Issuing authority | Select the Issuing authority responsible for this document type|
 |Validity          | If the document has a limited validity, enter a date formula to calculate the expiry date from date of issue|
