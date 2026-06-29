@@ -1,3 +1,9 @@
+---
+layout: NewLayout
+title: Welcome to Braintree Support
+description: Support and documentation for Braintree's Compliance Document extension to Microsoft Dynamics 365 Business Central
+---
+
 # Compliance Document Tracker
 The application provides the ability to record details of documents that an organisation needs to keep track of.  These will include documents issued by external statutory bodies, including
 

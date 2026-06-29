@@ -1,3 +1,9 @@
+---
+layout: NewLayout
+title: Welcome to Braintree Support
+description: Support and documentation for Braintree's Compliance Document extension to Microsoft Dynamics 365 Business Central
+---
+
 # Compliance Document Tracker
 
 - [Set up new Number Series](#set-up-new-number-series)
