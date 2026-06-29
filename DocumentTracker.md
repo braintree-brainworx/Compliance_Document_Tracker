@@ -70,10 +70,11 @@ Capture the information as follows:
 |Area of jurisdiction|Free text, indicating where the document is valid eg Global, National, Site|
 |Document importance| Optional / Recommended / Mandatory|
 |Duplicates allowed| If multiple editions of the same document type can be issued to a particular entity, tick on. If ticked off, the system will prevent you from capturing more than one edition of a document.|
-|Extension Period   |                                                       |
+|Extension Period   |                                                      |
 |Maximum Extensions allowed |   |
-|Associated Entities:|Select the entities to which the document type can be attached: Customer / Vendor / Fixed Asset / Item / Resource / Service Item / Employee |
-    |
+|Associated Entities:|Select the entities to which the document type can be attached: Customer / Vendor / Fixed Asset / Item / Resource / Service Item / Employee |    |
+
+
 ### Entity Defaults
 This function allows you to define the suggested list of documents that need to be collected for a particular entity. For example, for a new customer, you may want to collect their company registration, VAT registration, BBBEE certificate.
 
