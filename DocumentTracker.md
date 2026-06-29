@@ -1,3 +1,9 @@
+---
+layout: NewLayout
+title: Welcome to Braintree Support
+description: Support and documentation for Braintree's Compliance Document extension to Microsoft Dynamics 365 Business Central
+---
+
 # Compliance Document Tracker
 
   - [Configuration and Setup](#configuration-and-setup)
