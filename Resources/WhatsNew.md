@@ -1,3 +1,9 @@
+---
+layout: NewLayout
+title: Welcome to Braintree Support
+description: Support and documentation for Braintree's Compliance Document extension to Microsoft Dynamics 365 Business Central
+---
+
 # Release notes
 
 ### Release 26.0.20260115.2
