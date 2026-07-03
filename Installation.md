@@ -27,9 +27,11 @@ description: Support and documentation for Braintree's Compliance Document exten
   * Training document numbers (certificates)
 
 ### Capture Setup fields
-Search for Statutory Documents Setup.
+Search for Compliance Document Tracker Setup.
 
-![alt text](docs/images/image-4.png)
+![alt text](Screenshots/image.png)
+
+![alt text](Screenshots/image-1.png)
 
 Capture fields for document management
 * Statutory Documents number series - used to number entries in the statutory documents table

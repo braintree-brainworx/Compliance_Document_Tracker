@@ -7,7 +7,7 @@ description: Support and documentation for Braintree's Compliance Document exten
 # Compliance Document Tracker
 The application provides the ability to record details of documents that an organisation needs to keep track of.  These will include documents issued by external statutory bodies, including
 
-- Government authorities for example company registrations, tax registrations, tax clearances
+- Government authorities such as the company registrar, tax authority or labour department
 - Standards authorities such as ISO, TUV.
 - Training and educational organisations such as universities, skills certification bodies.
 
