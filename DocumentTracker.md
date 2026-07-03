@@ -49,6 +49,6 @@ If you have the appropriate authority, you can update the status of the entry to
 
 ![alt text](Screenshots/image-8.png)
 
-*  Click on Customer -> Statutory Documents -> Statutory Documents. This will open the list of documents linked to the customer. You can now capture the remaining information such as the date of issue.
+*  Click on Compliance Documents -> Compliance Document Tracker. This will open the list of documents linked to the customer. You can now capture the remaining information such as the date of issue.
 
 The above process applies to all entities.
