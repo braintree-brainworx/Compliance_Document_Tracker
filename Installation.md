@@ -31,10 +31,10 @@ Search for Compliance Document Tracker Setup.
 
 ![alt text](Screenshots/image.png)
 
-![alt text](Screenshots/image-1.png)
+![alt text](Screenshots/image-2.png)
 
 Capture fields for document management
-* Statutory Documents number series - used to number entries in the statutory documents table
+* Compliance Document number series - used to number entries in the Compliance Document Tracker table
 * Expiry warning period - a date formula which indicates how long before expiry you would like the system to warn you.
 
 Capture fields for training administration
@@ -49,13 +49,13 @@ The organisations (including your own) that are responsible for issuing or certi
 
 From the Statutory Documents Setup page, click on Issuing Authorities. 
 
-![alt text](docs/images/image-5.png)
+![alt text](Screenshots/image-3.png)
 
 Capture the data as follows:
 
 ![alt text](docs/images/image-6.png)
 
-*   Code : unique code to identify the organisation
+*   Code - unique code to identify the organisation
 *   Name - full name of the organisation
 *   Membership number - if you have a registration number with the external organisation, enter it here
 *   Vendor number - link to a vendor to facilitate payment of membership fees.
@@ -63,7 +63,7 @@ Capture the data as follows:
 ### Document Types
 The types of document which your organisation needs to store, and the rules of how to manage them, are entered here.  From the Statutory Documents Setup, select 'Document Types':
 
-![alt text](docs/images/image-7.png)
+![alt text](Screenshots/image-1.png)
 
 Capture the information as follows:
 
@@ -84,6 +84,8 @@ Capture the information as follows:
 This function allows you to define the suggested list of documents that need to be collected for a particular entity. For example, for a new customer, you may want to collect their company registration, VAT registration, BBBEE certificate.
 
 From the Statutory Documents Setup, select 'Entity Defaults'.
+
+![alt text](Screenshots/image-4.png)
 
 Enter fields as follows:
 
