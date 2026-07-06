@@ -6,6 +6,18 @@ description: Support and documentation for Braintree's Compliance Document exten
 
 # Release notes
 
+### Release 26.0.20260703.1
+
+<details>
+<summary>New installation features. (click for details)</summary>
+<ul>
+<li>App added to Assisted Setup and Manual Setup.</li>
+<li>When Setup page is opened, licence registration is auto-triggered.</li>
+<li>AppID and Product ID displayed on setup page</li>
+<!-- copy line above to add details -->
+</ul>
+</details>
+
 ### Release 26.0.20260115.2
 
 <details>
@@ -15,5 +27,6 @@ description: Support and documentation for Braintree's Compliance Document exten
 <!-- copy line above to add details -->
 </ul>
 </details>
+
 
 <!-- copy whole section above per release -->
