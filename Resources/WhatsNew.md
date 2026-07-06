@@ -14,19 +14,14 @@ description: Support and documentation for Braintree's Compliance Document exten
 <li>App added to Assisted Setup and Manual Setup.</li>
 <li>When Setup page is opened, licence registration is auto-triggered.</li>
 <li>AppID and Product ID displayed on setup page</li>
-<!-- copy line above to add details -->
 </ul>
 </details>
 
-### Release 26.0.20260115.2
+<!-- ### Release 26.0.20260115.2
 
 <details>
 <summary>Bug fix: attachments on Service documents result in error. (click for details)</summary>
 <ul>
 <li>Attempting to attach a document to a service document or posted service document caused error message. Issue resolved.</li>
-<!-- copy line above to add details -->
 </ul>
-</details>
-
-
-<!-- copy whole section above per release -->
+</details> -->
