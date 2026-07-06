@@ -17,6 +17,17 @@ description: Support and documentation for Braintree's Compliance Document exten
 </ul>
 </details>
 
+### Release 26.0.20260115.2
+
+<details>
+<summary>Bug fix: attachments on Service documents result in error. (click for details)</summary>
+<ul>
+<li>Attempting to attach a document to a service document or posted service document caused error message. Issue resolved.</li>
+</ul>
+</details>
+
+
+
 <!-- ### Release 26.0.20260115.2
 
 <details>
