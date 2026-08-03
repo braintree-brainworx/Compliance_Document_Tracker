@@ -10,8 +10,6 @@ description: Support and documentation for Braintree's Compliance Document exten
 - [Schedule classes from a course](#schedule-classes-from-a-course)
 - [Record attendance and results of classes](#record-attendance-and-results-of-classes)
 
-https://braintree-by-vox.github.io/Compliance_Document_Tracker/Compliance_Document_Tracker/Installation
-
 ## Create a training programme
 This function allows you to define the outline of a training programme.
 Select 'Training Programmes' from the Statutory Documents Setup page.
