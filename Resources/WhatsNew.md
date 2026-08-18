@@ -6,6 +6,18 @@ description: Support and documentation for Braintree's Compliance Document exten
 
 # Release notes
 
+### Release 28.0.20260817.1
+
+<details>
+<summary>Approval workflow added. (click for details)</summary>
+<ul>
+<li>A workflow template has been added.</li>
+<li>Status field: no longer directly editable.</li>
+<li>Actions have been added to the page to change status and request approval.</li>
+</ul>
+</details>
+
+
 ### Release 26.0.20260703.1
 
 <details>
