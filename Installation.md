@@ -14,6 +14,7 @@ description: Support and documentation for Braintree's Compliance Document exten
 - [Training Programmes](#training-programmes)
 - [Training Subjects](#training-subjects)
 - [Link Skills to Certifications](#link-skills-to-certifications)
+- [Workflow](#workflow-template)
 
 ## Configuration and Setup
 
@@ -128,3 +129,14 @@ This function allows you to define subjects on which you will offer training.
 * Next to each skill code, select the applicable certification
 
 ![alt text](docs/images/image-19.png)
+
+### Workflow Template 
+On installation, a workflow template code will be added to the setup page:
+
+![alt text](Screenshots/image-9.png)
+
+If you wish to use approval workflows, select the Workflow menu, then click on Create Workflow:
+
+![alt text](Screenshots/image-10.png)
+
+Go to Workflow Templates, and use the new template to create a workflow. Edit the workflow according to your business rules, and enable it.
